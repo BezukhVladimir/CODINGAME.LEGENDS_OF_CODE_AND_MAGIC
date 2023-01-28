@@ -1,4 +1,4 @@
-# GLOBAL PROGRAMMING CONTESTS (CODINGAME)
+# Legends of Code and Magic (CODINGAME)
 
 ## Contest result
 
