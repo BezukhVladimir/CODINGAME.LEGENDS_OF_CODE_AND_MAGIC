@@ -1,4 +1,4 @@
-# Legends of Code and Magic (CODINGAME)
+# LEGENDS OF CODE AND MAGIC (CODINGAME)
 
 ## Contest result
 
