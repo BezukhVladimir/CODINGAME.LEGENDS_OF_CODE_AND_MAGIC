@@ -4,7 +4,8 @@
 
 5,696 CodinGamers have registered to this contest <br>
 My global rank: 153/2174 <br>
-Leadersboard: https://www.codingame.com/contests/legends-of-code-and-magic-marathon/leaderboard/global?column=keyword&value=Bezukh
+Leadersboard: <br>
+https://www.codingame.com/contests/legends-of-code-and-magic-marathon/leaderboard/global?column=keyword&value=Bezukh
 
 ## How program works
 
