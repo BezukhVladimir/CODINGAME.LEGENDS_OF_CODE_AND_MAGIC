@@ -1,5 +1,7 @@
 # LEGENDS OF CODE AND MAGIC (CODINGAME)
 
+CodinGame's global programming contest for 2018. The competition lasted 4 weeks.
+
 ## Contest result
 
 5,696 CodinGamers have registered to this contest. <br>
